@@ -1,0 +1,11 @@
+{
+  "rustc": 12560865887988670658,
+  "features": "[\"default\", \"use_std\"]",
+  "target": 8333697966133126704,
+  "profile": 7990393541957723157,
+  "path": 10769276808166458479,
+  "deps": [],
+  "local": [{ "Precalculated": "0.2.43" }],
+  "rustflags": [],
+  "edition": "Edition2015"
+}

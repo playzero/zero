@@ -1,0 +1,18 @@
+{
+  "rustc": 12560865887988670658,
+  "features": "[]",
+  "target": 327663023877608900,
+  "profile": 3000174652163778035,
+  "path": 1036222786711178230,
+  "deps": [["rand v0.3.22", "rand", 3208444457177826660]],
+  "local": [
+    {
+      "MtimeBased": [
+        [1540408779, 142336542],
+        ".fingerprint/api-f5a505954fd64356/dep-bin-api-f5a505954fd64356"
+      ]
+    }
+  ],
+  "rustflags": [],
+  "edition": "Edition2015"
+}

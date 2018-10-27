@@ -1,0 +1,18 @@
+{
+  "rustc": 12560865887988670658,
+  "features": "[]",
+  "target": 327663023877608900,
+  "profile": 3000174652163778035,
+  "path": 1036222786711178230,
+  "deps": [],
+  "local": [
+    {
+      "MtimeBased": [
+        [1540403464, 606123883],
+        ".fingerprint/api-a5edd41ddeb7847c/dep-bin-api-a5edd41ddeb7847c"
+      ]
+    }
+  ],
+  "rustflags": [],
+  "edition": "Edition2015"
+}
